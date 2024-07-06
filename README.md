@@ -26,43 +26,20 @@ The Project Management Tool is a web application designed to help users create a
 - Set deadlines for tasks
 - Track the progress of tasks and projects
 - User authentication and authorization
+  
+## Technologies Used
+
+- Frontend: React, Redux
+- Backend: Node.js, Express
+- Database: MongoDB
+- Authentication: JWT
+- Deployment: Vercel
 
 ## Demo
 
 Check out the live demo of the Project Management Tool [here](https://project-management-tool-aspire-nex.vercel.app/).
 
-## Getting Started
 
-Follow these instructions to set up the project locally.
-
-### Prerequisites
-
-Ensure you have the following installed:
-
-- Node.js
-- npm or yarn
-
-### Installation
-
-1. Clone the repository:
-
-```bash
-git clone https://github.com/sourabhsahu33/project-management-tool.git
-```
-```bash
-cd project-management-tool
-
-npm install
-# or
-yarn install
-```
-
-# Usage
-```
-npm start
-# or
-yarn start
-```
 # Folder Structure
 ```
 project-management-tool/
